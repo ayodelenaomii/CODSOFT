@@ -2,7 +2,7 @@
 
 ---
 
-# Fraud Detection in Financial
+# Fraud Detection
 
 This project aims to predict fraudulent transactions using a dataset containing transaction details. The model classifies transactions as either fraudulent or non-fraudulent based on multiple features, including transaction amount, category, customer location, and time of transaction.
 
