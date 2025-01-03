@@ -76,7 +76,3 @@ The dataset contains **10,000 customer records** with the following features:
 
 Special thanks to the developers and contributors of open-source machine learning tools like **scikit-learn** and **pandas**, which were crucial in building and evaluating this model.
 
----
-
-This README structure ensures that all key details about the project are clearly communicated, while avoiding plagiarism.
-Description for Task3_CustomerChurnPrediction goes here.
